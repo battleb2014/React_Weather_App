@@ -6,6 +6,7 @@
 body {
     background-image: url('https://media0.giphy.com/media/1uLQUtPLbJMQ0/giphy.webp?cid=790b761147d9ce71f05ffeb013258a6a9ebe6473ab335baf&rid=giphy.webp');
     background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     align-items: center;
 }
