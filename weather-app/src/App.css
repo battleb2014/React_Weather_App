@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://media0.giphy.com/media/1uLQUtPLbJMQ0/giphy.webp?cid=790b761147d9ce71f05ffeb013258a6a9ebe6473ab335baf&rid=giphy.webp');
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+p {
+    color: white;
+    font-size: 1.5em;
+    margin-top: .5em;
+}
+
+input {
+    padding: .5em;
+    margin-right: .5em;
+}
+
+button {
+    padding: .5em;
+    background-color: #b3f8ff;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrap {
+    color: white;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.error {
+    color: red;
+}

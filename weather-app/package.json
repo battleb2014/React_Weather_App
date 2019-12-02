@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage":"https://battleb2014.github.io/React_Weather_App/",
+  "homepage": "https://battleb2014.github.io/React_Weather_App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
